@@ -1,15 +1,12 @@
-#Print a Sentence 
-print("Welcome to the world of programming!")
+# Printing a greeting message
+print("Hello, world!")
 
-#Print a Number
-print(4)
+# Printing my name
+print("My name is Alex.")
 
-#Next Line after print
-print("Hello Python \n")
+# Printing a fun fact about myself
+# print("I love playing soccer.")
+print("I love playing soccer.")
 
-#Pass multiple arguments for printing
-print("hello",5)
-
-#End argument of Print Statement
-print("welcome to ", end= "*")
-print("Python")
+# Performing and printing a simple calculation
+print("The result of 3 + 5 is:", 3 + 5)
